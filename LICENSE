@@ -1,4 +1,54 @@
-Copyright (c) GitHub and others
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maria Luiza | Salesforce Developer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Maria Luiza</h1>
+            <p>Salesforce Specialist & Developer</p>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section id="about" class="section">
+            <h2>About Me</h2>
+            <p>Hi, I'm Maria Luiza, a Salesforce Developer passionate about delivering efficient and scalable solutions. With years of experience in the Salesforce ecosystem, I bring expertise and creativity to every project.</p>
+        </section>
+        <section id="projects" class="section">
+            <h2>My Projects</h2>
+            <p>Explore the innovative projects I've worked on, showcasing my skills in Salesforce development and more.</p>
+        </section>
+        <section id="services" class="section">
+            <h2>Services</h2>
+            <p>I offer tailored Salesforce development services, including customizations, integrations, and consulting.</p>
+        </section>
+        <section id="contact" class="section">
+            <h2>Contact Me</h2>
+            <p>Let's collaborate! Reach out to me via email or connect on LinkedIn.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Maria Luiza. All rights reserved.</p>
+        <div class="socials">
+            <a href="#">LinkedIn</a>
+            <a href="#">GitHub</a>
+            <a href="#">Email</a>
+        </div>
+    </footer>
+</body>
+</html> (c) GitHub and others
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
